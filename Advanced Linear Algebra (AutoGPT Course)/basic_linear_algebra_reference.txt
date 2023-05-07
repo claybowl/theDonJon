@@ -1,0 +1,15 @@
+Compilation of Outlines for Basic Linear Algebra Courses:
+
+-Systems of Equations 
+
+-Vector Spaces
+
+-Determinants
+
+-Eigenvalues and Eigenvectors
+
+-Similarity
+
+-Positive Definite Matrices
+
+Compiling all these outlines into one document will undoubtedly aid us in better understanding basic concepts. Additionally, we will create problem sets to test our understanding of these concepts.

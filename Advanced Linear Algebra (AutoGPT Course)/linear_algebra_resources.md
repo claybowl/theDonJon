@@ -1,0 +1,1 @@
+* Fundamentals of Matrix Algebra: www.open.umn.edu/opentextbooks/textbooks/675

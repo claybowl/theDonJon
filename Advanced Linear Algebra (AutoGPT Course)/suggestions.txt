@@ -1,0 +1,5 @@
+Solution 5 is misspelled ('Comming' instead of 'Coming')
+Solution 5 is not implemented yet, consider removing the print statement
+The output of Solution 3 is not very clear, consider rephrasing it
+The output of Solution 4 is not very clear, consider rephrasing it
+The code could benefit from more comments and explanations

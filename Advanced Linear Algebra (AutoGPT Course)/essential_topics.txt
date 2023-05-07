@@ -1,0 +1,2 @@
+1. Vectors and Matrices, 2. Linear Dependence and Independence, 3. Linear Transformations, 4. Determinants, 5. Eigenvalues and Eigenvectors. 
+6. Orthogonal bases and projections. 7. Gram-Schmidt orthogonalization. 8. Least squares. 9. Vector spaces. 10. Inner products. 

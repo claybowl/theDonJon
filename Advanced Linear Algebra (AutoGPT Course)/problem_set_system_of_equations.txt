@@ -1,0 +1,25 @@
+1. Solve the following system of equations:
+
+2x + 3y = 9
+5x - 4y = 2
+
+2. Solve the following system of equations using the inverse of the coefficient matrix:
+
+2x + 3y = 8
+5x - 4y = 10
+
+3. Find the solutions for the following system of equations using elementary transformations:
+
+2x + 3y = 9
+5x - 4y = 2
+
+4. Find the solutions for the following system of equations using the row echelon form:
+
+2x + 3y = 9
+5x - 4y = 2
+
+5. Find the solutions for the following non-homogeneous system of equations using the row echelon form:
+
+2x + 3y = 9
+5x - 4y = 2
+9x - 4y = 12
